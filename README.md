@@ -1,10 +1,12 @@
 # Consumer Price Index (CPI) Data Analysis
 ## Introduction
-In this exercise, I will delve into data analysis using R to explore the concepts of Consumer Price Index (CPI) and enhance your data visualization skills. 
+In this exercise, I will delve into data analysis using R to explore the concepts of Consumer Price Index (CPI)
 
 ## Exercise Overview
 This exercise is divided into three parts, each with its own set of requirements and tasks:
+
 Download and tidy data
+
 ```
 #install package
 install.packages("dplyr")
@@ -27,7 +29,7 @@ data <- read_excel(file_path)
 view(data)
 ```
 ### Part 1: Data Retrieval and Tidying
-Task: Download the Consumer Price Index (CPI) data from Statistics Canada's Table 18-10-0004-01. You can access the data using the following link: Consumer Price Index (CPI) Data. Your goal in this part is to obtain the data and tidy it by keeping only the necessary fields.
+Task: Download the Consumer Price Index (CPI) data from Statistics Canada's Table 18-10-0004-01. Dataset link: Consumer Price Index (CPI) Data
 ```
 # Keep only the required fields
 tidy_data <- data %>%
