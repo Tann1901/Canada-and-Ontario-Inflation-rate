@@ -36,7 +36,7 @@ tidy_data <- data %>%
   select(Date, Overall_CPI, CPI_Excluding_Food_Energy, Food_Price, Housing_Price, Energy_Price)
 print(tidy_data)
 ```
-![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/9e4e9311-d5ef-4540-b69a-96a10a80fad8)
+![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/d8b63208-106a-4622-accd-f408e0708549)
 
 ```
 q3_data <- data %>%
@@ -61,7 +61,7 @@ q3_data <- q3_data %>%
 past_18_months_data <- tail(q3_data, 18)
 ```
 
-![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/edd37688-5bc7-4cb4-beac-a88e0db92c91)
+![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/756199bf-0a38-4bd4-9248-a379d298eef3)
 
 ### Part 2: Quarterly CPI Change
 Task: Calculate and visualize the quarterly changes in the overall CPI and CPI excluding food and energy over the past 5 years. This will help to understand how the CPI has evolved over time. 
@@ -122,7 +122,8 @@ ggsave("line_chart.png", line_chart, width = 12, height = 6)
 # Print the plot (optional)
 print(line_chart)
 ```
-![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/7f9d120a-ac97-4b7d-b412-7ecb6eecfe0b)
+![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/f19cb612-6e3f-4599-b415-a3032adc84ae)
+
 
 
 ### Part 3: Monthly Price Growth
@@ -162,6 +163,6 @@ ggsave("line_chart_3.png", line_chart_3, width = 12, height = 6)
 # Print the plot (optional)
 print(line_chart_3)
 ```
-![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/f7f8f6c3-7c0d-4697-8811-766bed99ef2d)
+![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/7de2af4a-5226-422a-bbf5-193de412ef82)
 
 
