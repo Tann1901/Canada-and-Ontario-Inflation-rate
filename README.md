@@ -124,6 +124,7 @@ print(line_chart)
 ```
 ![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/7f9d120a-ac97-4b7d-b412-7ecb6eecfe0b)
 
+
 ### Part 3: Monthly Price Growth
 Task: Calculate and visualize the monthly price growth in the following categories: food, housing (shelter), and energy (electricity, gas, fuels) over the past 18 months. 
 Compare the price index of each month to the previous month (Month over month) and the same month of the previous year (Year over year)
@@ -162,4 +163,5 @@ ggsave("line_chart_3.png", line_chart_3, width = 12, height = 6)
 print(line_chart_3)
 ```
 ![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/f7f8f6c3-7c0d-4697-8811-766bed99ef2d)
+
 
