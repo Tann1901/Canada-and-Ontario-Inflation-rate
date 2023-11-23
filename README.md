@@ -165,4 +165,30 @@ print(line_chart_3)
 ```
 ![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/7de2af4a-5226-422a-bbf5-193de412ef82)
 
+FOOD PRICE
 
+In the month-by-month comparison, the food prices fluctuate within a range of approximately +-10%, indicating some level of volatility in the market.
+
+However, when comparing the food prices to the same period in the previous year (2022-2023), the analysis reveals more substantial changes. In June 2022, the prices reached a peak with an increase of 40% compared to the previous year. This indicates a significant inflationary pressure on food prices during that period. On the other hand, in June 2023, the prices experienced a decline, touching a low point of -15% compared to the previous year. This suggests a deflationary trend in food prices during that specific month.
+
+These fluctuations in food prices can be attributed to various factors, such as the consequences of the COVID-19 pandemic and potential disruptions in the global food supply chain. Additionally, the mention of war implies that geopolitical factors and conflicts might have contributed to the instability in food supply, especially for a country like Canada that relies heavily on agricultural imports.
+
+The unstable supply of food due to these factors can have significant implications for consumers, businesses, and policymakers. It may lead to increased food costs, reduced affordability, and challenges in ensuring food security for the population. Policymakers may need to address these issues through measures such as improving domestic food production, diversifying food sources, implementing price stabilization mechanisms, and supporting agricultural sectors.
+
+HOUSE PRICE AND ENERGY PRICE
+Based on the line chart, we can observe that both house prices and energy prices exhibit similar trends in both month-to-month and year-to-year comparisons.
+
+In the month-to-month comparison, both house prices and energy prices demonstrate a relatively stable pattern. There are minimal fluctuations, indicating a consistent level of prices over the past 18 months.
+
+However, the year-to-year comparison reveals a noticeable increase in prices for both house prices and energy prices. The chart indicates that the prices in these categories have experienced a growth range of 5-10% when compared to the same period in the previous year. This suggests a significant upward trend in prices over the longer term.
+
+The similar trends observed in both month-to-month and year-to-year comparisons for house prices and energy prices indicate a degree of stability in these markets. The year-to-year price growth suggests a potential increase in the cost of housing and energy for consumers over time.
+
+CONCLUSION
+The line chart presented provides valuable insights into the overall economic situation in Canada. By tracking the monthly price growth in key sectors such as food, housing, and energy, it offers a glimpse into the country's inflation trends. While inflation is a crucial economic indicator, it is important to note that a comprehensive understanding of the Canadian economy requires consideration of various other factors.
+
+To make informed policy decisions, social policymakers must analyze a range of indicators beyond inflation. Factors such as GDP growth, employment rates, consumer spending, investment patterns, fiscal policies, and monetary policies all contribute to the broader economic landscape. By taking these factors into account, policymakers can gain a more comprehensive view of the current economic conditions and identify areas that require attention.
+
+Utilizing a diverse set of economic indicators, including inflation indices, empowers policymakers to implement appropriate policies tailored to address specific challenges. These policies may encompass measures such as monetary policy adjustments, fiscal stimulus initiatives, employment programs, social welfare reforms, and regulatory frameworks. By considering a wide array of indicators, policymakers can develop well-rounded strategies that promote economic stability, growth, and social well-being in Canada.
+
+In summary, while the line chart provides valuable insights into inflation trends, it is essential for social policymakers to consider a broader set of economic indicators to accurately assess the overall economic situation. This holistic approach enables policymakers to implement the right policies that address the needs and challenges of the country effectively.
