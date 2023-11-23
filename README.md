@@ -165,7 +165,7 @@ print(line_chart_3)
 ```
 ![image](https://github.com/Tann1901/Canada-and-Ontario-Inflation-rate/assets/108020327/7de2af4a-5226-422a-bbf5-193de412ef82)
 
-FOOD PRICE
+**FOOD PRICE**
 
 In the month-by-month comparison, the food prices fluctuate within a range of approximately +-10%, indicating some level of volatility in the market.
 
@@ -175,7 +175,8 @@ These fluctuations in food prices can be attributed to various factors, such as 
 
 The unstable supply of food due to these factors can have significant implications for consumers, businesses, and policymakers. It may lead to increased food costs, reduced affordability, and challenges in ensuring food security for the population. Policymakers may need to address these issues through measures such as improving domestic food production, diversifying food sources, implementing price stabilization mechanisms, and supporting agricultural sectors.
 
-HOUSE PRICE AND ENERGY PRICE
+**HOUSE PRICE AND ENERGY PRICE**
+
 Based on the line chart, we can observe that both house prices and energy prices exhibit similar trends in both month-to-month and year-to-year comparisons.
 
 In the month-to-month comparison, both house prices and energy prices demonstrate a relatively stable pattern. There are minimal fluctuations, indicating a consistent level of prices over the past 18 months.
@@ -184,7 +185,8 @@ However, the year-to-year comparison reveals a noticeable increase in prices for
 
 The similar trends observed in both month-to-month and year-to-year comparisons for house prices and energy prices indicate a degree of stability in these markets. The year-to-year price growth suggests a potential increase in the cost of housing and energy for consumers over time.
 
-CONCLUSION
+**CONCLUSION**
+
 The line chart presented provides valuable insights into the overall economic situation in Canada. By tracking the monthly price growth in key sectors such as food, housing, and energy, it offers a glimpse into the country's inflation trends. While inflation is a crucial economic indicator, it is important to note that a comprehensive understanding of the Canadian economy requires consideration of various other factors.
 
 To make informed policy decisions, social policymakers must analyze a range of indicators beyond inflation. Factors such as GDP growth, employment rates, consumer spending, investment patterns, fiscal policies, and monetary policies all contribute to the broader economic landscape. By taking these factors into account, policymakers can gain a more comprehensive view of the current economic conditions and identify areas that require attention.
